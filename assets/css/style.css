@@ -115,8 +115,20 @@ aside section{
 
     section div{
         width: auto;
-
     }
+
+    main{
+        display: flex;
+    }
+
+    article{
+        width: 70%;
+    }
+    
+    aside{
+        width: 30%;
+    }
+
 
 }
 }
