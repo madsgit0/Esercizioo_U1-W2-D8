@@ -95,17 +95,14 @@ aside section{
         justify-content: space-between;
         padding: 0;
         background-color: white;
-
     }
 
     section div{
         padding: 0;
         width: 30%;
-
     }
 
 }
- 
 
 @media screen and (min-width:800px) {
     
@@ -123,17 +120,16 @@ aside section{
 
     article{
         width: 70%;
+        padding-right: 20px;
     }
     
     aside{
         width: 30%;
     }
 
-
 }
-}
-
 /* ------------------------------- */
+
 @media screen and (min-width:800px) {
     header {
         padding: 1.3em;
